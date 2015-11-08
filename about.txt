@@ -1,2 +1,2 @@
-print ("About the soft")
-print ("How to avoid conflicts")
+print ("About the soft");
+print ("How to avoid conflicts");
