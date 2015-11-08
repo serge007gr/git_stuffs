@@ -1,4 +1,4 @@
-print ("Hello WorlD")
-print ("Hi ALL")
-print ("NewUpdate")
-print ("08.11.2015")
+print ("Hello WorlD");
+print ("Hi ALL");
+print ("NewUpdate");
+print ("future about was add on 08.11.2015");
